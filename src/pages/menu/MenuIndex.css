@@ -1,0 +1,6 @@
+@media screen and (min-width: 1000px) {
+  .cardContainer {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+}
